@@ -1,1 +1,1 @@
-# Analytical-Chemistry
+# Analytical-Chemistry(Python Chemistry)
