@@ -1,4 +1,5 @@
 # Analytical-Chemistry(Python Chemistry)
+
 These notebooks work through:
 An introduction to Jupyter notebooks and the Jupyter Notebook application;
 * 1) Performing simple calculations, and using the math module;
