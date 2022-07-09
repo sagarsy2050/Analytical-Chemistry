@@ -9,4 +9,4 @@ An introduction to Jupyter notebooks and the Jupyter Notebook application;
  
 
 **The simplest way to work with these notebooks**
-
+Machine Learning, a subdomain of Artificial intelligence, is a pervasive technology that would mold how chemists interact with data. Therefore, it is a relevant skill to incorporate into the toolbox of any chemistry student. This work presents a course that introduces machine learning for chemistry students based on a set of Python Notebooks and assignments. 
