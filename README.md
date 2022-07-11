@@ -1,5 +1,5 @@
 # Analytical-Chemistry(Python Chemistry)
-Machine Learning, a subdomain of Artificial intelligence, is a pervasive technology that would mold how chemists interact with data. Therefore, it is a relevant skill to incorporate into the toolbox of any chemistry student. This work presents a course that introduces machine learning for chemistry students based on a set of Python Notebooks and assignments.
+Future technology called artificial intelligence will change how chemists interact with data. As a result, it is a useful skill that every student of chemistry should have. The course presented here introduces machine learning to chemistry students and is built around a series of Python Notebooks and homework problems..
 
 These notebooks work through:
 
