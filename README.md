@@ -8,7 +8,8 @@ These notebooks work through:
 * 3) Different data types: integers and floats, strings, lists, and numpy arrays;
 * 4) Plotting data with matplotlib;
 * 5) Basic data analysis and statistics with numpy.
- Fruitful materials
+* 
+ **Fruitful materials**
 Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition, https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
 Online deep learning textbook written by Goodfellow, Bengio, and Couville, https://www.deeplearningbook.org/
 Reinforcement Learning lecture, by David Silver, http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
